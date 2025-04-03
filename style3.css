@@ -1,0 +1,142 @@
+div{
+  display: flex;  
+  justify-content: space-evenly;
+}
+.a{
+   color:black;
+   font-size:50px ;
+}
+.b{
+    color: aqua;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+}
+.c{
+    width: 1500px;
+    height: 600px;
+}
+div{
+     display: flex;
+     justify-content: space-evenly;
+}
+.d{
+   color: aqua;
+   font-size: 30px;
+}
+.e{
+    color: aqua;
+    font-size: 30px;
+}
+.f{
+    text-align: right;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.g{
+    width: 300px;
+    height: 400px;
+}
+.h{
+    width: 1500px;
+    height: 600px;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.i{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.j{
+   font-size: 40px;
+   color: aqua;
+   text-align: center;
+}
+.k{
+    font-size: 40px;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+.l{
+    font-size: 35px;
+    color:aliceblue;
+    background-color: black;
+}
+.m{
+    font-size: 40px;
+    color: chartreuse;
+    background-color: black;
+    text-align: center;
+}    
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.n{
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+}
+.o{
+    font-size: 30px;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.p{
+   font-size: 50px; 
+   color: aqua;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.q{
+    border: 65px solid aqua;
+}
+.r{
+    font-size: 60px;
+    color: aqua;
+}
+.s{
+    font-size: 20px;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+.t{
+    font-size: 40px;
+    color: aqua;
+}
+.u{
+    font-size: 30px ;
+}
+.v{
+    width: 1500px;
+    height: 400px ;
+}
+.w{
+    font-size: 50px;
+    color: aqua;
+}
+.x{
+    text-align: right;
+    font-size: 40px;
+}
